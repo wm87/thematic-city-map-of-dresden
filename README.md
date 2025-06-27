@@ -12,11 +12,15 @@ Dieses Projekt stellt einen Themenstadtplan für die Stadt Dresden bereit, erste
 
 ## Features
 
-✅ Themenstadtplan Dresden  
-✅ Thematische Layer (z.B. Studentenclubs, Schuldichte)  
+✅ Themenstadtplan Dresden
+
+✅ Thematische Layer (z.B. Studentenclubs, Schuldichte)
+
 ✅ Ansprechende Gestaltung durch QGIS-Stile
+
 ✅ Datenhaltung im GeoPackage
-✅ Freie Weiterverwendung und Anpassung  
+
+✅ Freie Weiterverwendung und Anpassung
 
 ## Datenquellen
 
